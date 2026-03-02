@@ -14,7 +14,7 @@
   date: 2026-03-09
   points: 5
   extra: true
-  dormant: true
+  dormant: false
   topics:
     - Implement a simple echo server
     - Run it in a Docker container
@@ -23,7 +23,7 @@
   date: 2026-03-16
   points: 5
   extra: true
-  dormant: true
+  dormant: false
   topics:
     - Prepare a step by step cloud server set up tutorial
     - Run an echo server in it
